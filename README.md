@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am live in Tyumen region. In a small village. 
+I am live in Tyumen region. In a small village.  
+I work remotely in a 1C company in a small development department.
 <!--
 **alte0/alte0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
