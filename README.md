@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am live in Tyumen region. In a small village.  
-I work remotely in a company associated with 1C in a small development department
+I work remotely in a company associated with 1C in a small development team.
 <!--
 **alte0/alte0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
